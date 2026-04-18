@@ -2,7 +2,7 @@
 """
 Simple Calculator App
 Performs basic arithmetic operations: Addition, Subtraction, Multiplication, Division
-Created by Sanjay
+Created by Sanjay and manju
 """
 
 def add(x, y):
